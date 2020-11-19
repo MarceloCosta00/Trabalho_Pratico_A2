@@ -4,8 +4,8 @@
  * Desenvolvedores
  * Nome: Matheus do carmo Santos RA: 106020 
  * Nome: Matheus Galvani de Camargo RA: 107285
- * Nome: RA:
- * Nome: RA:
+ * Nome: Marcelo Costa Corrêa RA: 104442
+ * Nome: Leonardo Garcia RA: 106939
  * Nome: RA:
  * 
  */
